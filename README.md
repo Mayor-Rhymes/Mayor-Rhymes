@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A software hobbyist. 
+
+I enjoy:
+* Working on personal projects
+* Grappling with css
+* Trying my hardest to understand complicated concepts
+
+
+
