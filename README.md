@@ -24,7 +24,7 @@ I enjoy:
 
 [![Mayor-Rhymes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayor-rhymes)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-rhymes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayor-rhymes&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
