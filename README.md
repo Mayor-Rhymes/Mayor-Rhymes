@@ -22,5 +22,7 @@ I enjoy:
 * Grappling with css
 * Trying my hardest to understand complicated concepts
 
+[![Mayor-Rhymes's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayor-rhymes)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
